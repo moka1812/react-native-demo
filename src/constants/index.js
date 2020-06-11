@@ -1,0 +1,1 @@
+export const URI_NGROK = `https://8fe97590.ngrok.io`;
